@@ -42,9 +42,7 @@ Poltava region.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stasonMendelso&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stasonMendelso&layout=compact)](https://github.com/stasonMendelso/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stasonMendelso)](https://github.com/stasonMendelso/github-readme-stats)
 ### Where to find me
 
 <div align="start">
