@@ -13,6 +13,7 @@ jobs:
     steps:
       - uses: StasonMendelso/StasonMendelso@main
         with:
+          Default: ${{ github.repository }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           BLOCKS: ->
