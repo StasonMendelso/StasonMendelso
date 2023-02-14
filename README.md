@@ -35,8 +35,8 @@ Poltava region.
 <br/>  
 
 ### Weekly stats working on
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=StasonMendelso)](https://github.com/stasonMendelso/github-readme-stats)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### GitHub stats
 
