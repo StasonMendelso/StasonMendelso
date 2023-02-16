@@ -13,8 +13,5 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # Automatic github token
-          GH_TOKEN: ${{ github.token }}
-          REPOSITORY: <stasonMendelso/stasonMendelso>
           # Manual Commit messages - write your own messages here
           COMMIT_MESSAGE: "Automated Coding Activity Update :alien:"
