@@ -1,22 +1,17 @@
-name: "Wakatime stats"
+name: Waka Readme
+
 on:
   schedule:
-    # Runs at 12 am  '0 0 * * *'  UTC
-    - cron: "1 0 * * *"
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
   workflow_dispatch:
-
+  push:
 jobs:
   update-readme:
-    name: Update the WakaTime Stat
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: avinal/Profile-Readme-WakaTime@v3.0
+      - uses: anmol098/waka-readme-stats@master
         with:
-          # WakaTime API key stored in secrets, do not directly paste it here
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # Automatic github token
-          GITHUB_TOKEN: ${{ github.token }}
-          # Branch - newer GitHub repositories have "main" as default branch, change to main in that case, default is master
-          BRANCH: "main"
-          # Manual Commit messages - write your own messages here
-          COMMIT_MSG: "Automated Coding Activity Update :alien:"
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}

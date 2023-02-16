@@ -34,8 +34,10 @@ Poltava region.
 
 <br/>  
 
-### Weekly stats working on
-<img src="https://github.com/stasonMendelso/stasonMendelso/blob/main/images/stat.svg" alt="Stanislav Hlova WakaTime Activity"/>
+### Weekly stats working 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### GitHub stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stasonMendelso&show_icons=true&theme=transparent)
