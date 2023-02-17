@@ -11,6 +11,11 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
+      - uses: szenius/set-timezone@v1.0
+        with:
+          timezoneLinux: "Europe/Tallinn"
+          timezoneMacos: "Europe/Tallinn"
+          timezoneWindows: "Eastern European Time"
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
