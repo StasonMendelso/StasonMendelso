@@ -17,4 +17,3 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_LINES_OF_CODE: "True"
           SYMBOL_VERSION: 3
-          DEBUG_LOGGING:
