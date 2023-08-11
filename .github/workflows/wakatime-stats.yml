@@ -5,6 +5,9 @@ on:
     # Runs at 12am IST
     - cron: '30 18 * * *'
   workflow_dispatch:
+    runs:
+      using: 'docker'
+      image: 'docker://wakareadmestats/waka-readme-stats:master'
 jobs:
   update-readme:
     name: Update Readme with Metrics
