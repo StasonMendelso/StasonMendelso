@@ -38,9 +38,9 @@ Poltava region.
 ### My stats 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-357%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-359%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -81,19 +81,19 @@ Sunday                   153 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-CSS                      7 hrs 19 mins       █████████████████░░░░░░░░   67.55 % 
-HTML                     2 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
-JavaScript               47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+CSS                      3 hrs 31 mins       ██████████████░░░░░░░░░░░   56.71 % 
+HTML                     1 hr 53 mins        ████████░░░░░░░░░░░░░░░░░   30.47 % 
+JavaScript               47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
 
 🔥 Editors: 
-WebStorm                 10 hrs 49 mins      █████████████████████████   100.00 % 
+WebStorm                 6 hrs 12 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Online Shoe Store. WebSto10 hrs 27 mins      ████████████████████████░   96.50 % 
-Education.Web.CSS Grid La22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+Online Shoe Store. WebSto5 hrs 56 mins       ████████████████████████░   95.72 % 
+Education.Web.CSS Grid La15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
 
 💻 Operating System: 
-Windows                  10 hrs 49 mins      █████████████████████████   100.00 % 
+Windows                  6 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -113,7 +113,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/StasonMendelso/StasonMendelso/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2023 18:40:07 UTC
+ Last Updated on 25/08/2023 18:40:04 UTC
 <!--END_SECTION:waka-->
 
 ### GitHub stats
