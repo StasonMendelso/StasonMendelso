@@ -7,13 +7,13 @@ on:
   workflow_dispatch:
     runs:
       using: 'docker'
-      image: 'docker://wakareadmestats/waka-readme-stats:fix/commit_pagination_retrieving_fix'
+      image: 'docker://wakareadmestats/waka-readme-stats:master'
 jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@fix/commit_pagination_retrieving_fix
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
