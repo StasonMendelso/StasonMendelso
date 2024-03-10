@@ -1,6 +1,6 @@
 ### Hey! Nice to see you. 👋
 
-I'm 19 years old and getting Bachelor's degree in Computer Science and Technology
+I'm 20 years old and getting Bachelor's degree in Computer Science and Technology
 specialty in the [KhNURE][1]. I've been programming since I was 17 and I'm not going
 to stop. For me, programming is a useful skill and an exciting activity. In my free
 time, I like to do powerlifting, read self-development and psychological literature,
