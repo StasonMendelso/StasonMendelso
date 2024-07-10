@@ -38,15 +38,13 @@ Poltava region.
 ### My stats 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C110%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C110%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 988.8 kB Used in GitHub's Storage 
- > 
-> 🏆 232 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -81,21 +79,21 @@ Sunday                   187 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-Java                     3 hrs 30 mins       ████████████████████████░   94.06 % 
-XML                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-GitIgnore file           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Java                     3 hrs 34 mins       ████████████████████████░   94.17 % 
+XML                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+GitIgnore file           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            3 hrs 43 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            3 hrs 47 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Notification Power outage3 hrs 42 mins       █████████████████████████   99.64 % 
-KhNURE Auto Attendance   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Notification Power outage3 hrs 46 mins       █████████████████████████   99.65 % 
+KhNURE Auto Attendance   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 💻 Operating System: 
-Windows                  3 hrs 43 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -115,7 +113,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/StasonMendelso/StasonMendelso/main/assets/bar_graph.png)
 
 
- Last Updated on 09/07/2024 18:44:31 UTC
+ Last Updated on 10/07/2024 18:45:11 UTC
 <!--END_SECTION:waka-->
 
 ### GitHub stats
