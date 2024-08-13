@@ -38,13 +38,15 @@ Poltava region.
 ### My stats 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C117%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C117%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 988.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 232 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -79,19 +81,19 @@ Sunday                   187 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-JavaScript               4 hrs 20 mins       ███████████████████████░░   93.36 % 
-CSS                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+JavaScript               3 hrs 37 mins       ████████████████████████░   94.32 % 
+CSS                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-WebStorm                 4 hrs 38 mins       █████████████████████████   100.00 % 
+WebStorm                 3 hrs 50 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-react-fund-course-ulbi   4 hrs 37 mins       █████████████████████████   99.70 % 
-Education.Js             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+react-fund-course-ulbi   3 hrs 49 mins       █████████████████████████   99.64 % 
+Education.Js             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 💻 Operating System: 
-Windows                  4 hrs 38 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -111,7 +113,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/StasonMendelso/StasonMendelso/main/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2024 18:45:55 UTC
+ Last Updated on 13/08/2024 18:44:57 UTC
 <!--END_SECTION:waka-->
 
 ### GitHub stats
