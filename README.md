@@ -38,13 +38,15 @@ Poltava region.
 ### My stats 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C121%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C121%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 989.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 269 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -79,20 +81,20 @@ Sunday                   199 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-JavaScript               3 hrs 14 mins       ███████████████████████░░   91.65 % 
-CSS                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+JavaScript               5 hrs 41 mins       ████████████████████████░   94.67 % 
+CSS                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-WebStorm                 3 hrs 32 mins       █████████████████████████   100.00 % 
+WebStorm                 6 hrs 1 min         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-react-fund-course-ulbi   3 hrs 31 mins       █████████████████████████   99.61 % 
-Education.Js             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+react-fund-course-ulbi   6 hrs               █████████████████████████   99.77 % 
+Education.Js             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-Windows                  3 hrs 32 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -112,7 +114,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/StasonMendelso/StasonMendelso/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2024 18:42:44 UTC
+ Last Updated on 18/08/2024 18:42:45 UTC
 <!--END_SECTION:waka-->
 
 ### GitHub stats
