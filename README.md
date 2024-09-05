@@ -46,6 +46,8 @@ Poltava region.
 
 > 📦 989.0 kB Used in GitHub's Storage 
  > 
+> 🏆 269 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 37 Public Repositories 
@@ -79,21 +81,16 @@ Sunday                   199 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-Java                     7 mins              ███████████░░░░░░░░░░░░░░   42.64 % 
-TypeScript               4 mins              ███████░░░░░░░░░░░░░░░░░░   26.50 % 
-Markdown                 3 mins              ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
-YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-CLASS                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-KhNURE Timetable Synchron8 mins              █████████████░░░░░░░░░░░░   50.12 % 
-KhNURE-Timetable-Synchron8 mins              ████████████░░░░░░░░░░░░░   49.88 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -113,7 +110,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/StasonMendelso/StasonMendelso/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2024 18:44:57 UTC
+ Last Updated on 05/09/2024 18:45:37 UTC
 <!--END_SECTION:waka-->
 
 ### GitHub stats
