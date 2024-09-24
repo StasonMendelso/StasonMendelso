@@ -38,13 +38,15 @@ Poltava region.
 ### My stats 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C126%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C129%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 989.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 273 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -79,21 +81,18 @@ Sunday                   199 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-Java                     1 hr 25 mins        █████████████████░░░░░░░░   69.02 % 
-Markdown                 25 mins             █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
-XML                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-GitIgnore file           5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Java                     5 hrs 17 mins       █████████████████████████   99.30 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-IntelliJ IDEA            2 hrs 4 mins        █████████████████████████   100.00 % 
+IntelliJ IDEA            5 hrs 19 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-University.KhNURE.HpCT.Pr1 hr 54 mins        ███████████████████████░░   91.62 % 
-University.KhNURE.ITDIP.P10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+University.KhNURE.HpCT.Pr5 hrs 19 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 4 mins        █████████████████████████   100.00 % 
+Windows                  5 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -113,7 +112,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/StasonMendelso/StasonMendelso/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2024 18:47:28 UTC
+ Last Updated on 24/09/2024 18:48:04 UTC
 <!--END_SECTION:waka-->
 
 ### GitHub stats
