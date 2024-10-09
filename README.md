@@ -38,13 +38,15 @@ Poltava region.
 ### My stats 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C135%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C135%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 991.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 276 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -79,22 +81,16 @@ Sunday                   199 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-Java                     2 hrs 44 mins       █████████████████░░░░░░░░   69.32 % 
-XML                      1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   29.42 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+XML                      1 hr 10 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            3 hrs 58 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            1 hr 10 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-University.KhNURE.HpCT.Pr2 hrs 44 mins       █████████████████░░░░░░░░   69.27 % 
-University.KhNURE.ITDIP.P1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   29.42 % 
-KhNURE Auto Attendance   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+University.KhNURE.ITDIP.P1 hr 10 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 58 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 10 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -114,7 +110,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/StasonMendelso/StasonMendelso/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2024 18:46:18 UTC
+ Last Updated on 09/10/2024 18:47:51 UTC
 <!--END_SECTION:waka-->
 
 ### GitHub stats
