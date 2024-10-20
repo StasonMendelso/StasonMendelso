@@ -38,13 +38,15 @@ Poltava region.
 ### My stats 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C146%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C149%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 991.9 kB Used in GitHub's Storage 
+> 📦 992.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 280 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -79,20 +81,20 @@ Sunday                   199 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-Java                     5 hrs 45 mins       █████████████░░░░░░░░░░░░   52.40 % 
-XML                      2 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
-HTML                     1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-XSLT                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-Text                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Java                     5 hrs 49 mins       ███████████████████░░░░░░   75.88 % 
+XML                      1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
+Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+CLASS                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 🔥 Editors: 
-IntelliJ IDEA            10 hrs 59 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            7 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-University.KhNURE.ITDIP.P10 hrs 59 mins      █████████████████████████   100.00 % 
+University.KhNURE.ITDIP.P7 hrs 40 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 hrs 59 mins      █████████████████████████   100.00 % 
+Windows                  7 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -112,7 +114,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/StasonMendelso/StasonMendelso/main/assets/bar_graph.png)
 
 
- Last Updated on 19/10/2024 18:45:19 UTC
+ Last Updated on 20/10/2024 18:45:28 UTC
 <!--END_SECTION:waka-->
 
 ### GitHub stats
