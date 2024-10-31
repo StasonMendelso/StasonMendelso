@@ -38,13 +38,15 @@ Poltava region.
 ### My stats 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C154%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C156%20hrs%2038%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 991.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 282 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -79,18 +81,18 @@ Sunday                   199 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-Java                     1 hr 30 mins        ███████████████████████░░   93.92 % 
-JSON                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Java                     4 hrs 40 mins       ██████████████████████░░░   86.82 % 
+JSON                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+XML                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 36 mins        █████████████████████████   100.00 % 
+IntelliJ IDEA            5 hrs 23 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-University.KhNURE.ITDIP.P1 hr 36 mins        █████████████████████████   100.00 % 
+University.KhNURE.ITDIP.P5 hrs 23 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 36 mins        █████████████████████████   100.00 % 
+Windows                  5 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -110,7 +112,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/StasonMendelso/StasonMendelso/main/assets/bar_graph.png)
 
 
- Last Updated on 30/10/2024 18:48:37 UTC
+ Last Updated on 31/10/2024 18:48:37 UTC
 <!--END_SECTION:waka-->
 
 ### GitHub stats
