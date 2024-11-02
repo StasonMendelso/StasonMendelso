@@ -38,7 +38,7 @@ Poltava region.
 ### My stats 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C156%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C158%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -79,7 +79,7 @@ Sunday                   199 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-Java                     6 hrs 29 mins       ███████████████████████░░   90.16 % 
+Java                     6 hrs 29 mins       ███████████████████████░░   90.15 % 
 JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
 XML                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
 
@@ -111,7 +111,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/StasonMendelso/StasonMendelso/main/assets/bar_graph.png)
 
 
- Last Updated on 01/11/2024 18:48:07 UTC
+ Last Updated on 02/11/2024 18:45:07 UTC
 <!--END_SECTION:waka-->
 
 ### GitHub stats
