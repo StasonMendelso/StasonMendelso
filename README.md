@@ -40,7 +40,7 @@ Poltava region.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C158%20hrs%2029%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
@@ -79,7 +79,7 @@ Sunday                   199 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-Java                     1 hr 40 mins        █████████████████████████   98.36 % 
+Java                     1 hr 40 mins        █████████████████████████   98.37 % 
 XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
@@ -87,8 +87,8 @@ JSON                     0 secs              ░░░░░░░░░░░�
 IntelliJ IDEA            1 hr 41 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-University.KhNURE.HpCT.Pr1 hr 41 mins        █████████████████████████   99.93 % 
-University.KhNURE.ITDIP.P0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+University.KhNURE.HpCT.Pr1 hr 41 mins        █████████████████████████   99.95 % 
+University.KhNURE.ITDIP.P0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
 Windows                  1 hr 41 mins        █████████████████████████   100.00 % 
@@ -111,7 +111,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/StasonMendelso/StasonMendelso/main/assets/bar_graph.png)
 
 
- Last Updated on 08/11/2024 18:47:55 UTC
+ Last Updated on 09/11/2024 18:44:36 UTC
 <!--END_SECTION:waka-->
 
 ### GitHub stats
