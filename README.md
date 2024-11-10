@@ -40,11 +40,13 @@ Poltava region.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C158%20hrs%2029%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 992.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 283 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -79,19 +81,18 @@ Sunday                   199 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-Java                     1 hr 40 mins        █████████████████████████   98.37 % 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Java                     0 secs              ██████████████████░░░░░░░   71.74 % 
+JSON                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+XML                      0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 41 mins        █████████████████████████   100.00 % 
+IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-University.KhNURE.HpCT.Pr1 hr 41 mins        █████████████████████████   99.95 % 
-University.KhNURE.ITDIP.P0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+University.KhNURE.ITDIP.P0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 41 mins        █████████████████████████   100.00 % 
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -111,7 +112,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/StasonMendelso/StasonMendelso/main/assets/bar_graph.png)
 
 
- Last Updated on 09/11/2024 18:44:36 UTC
+ Last Updated on 10/11/2024 18:44:51 UTC
 <!--END_SECTION:waka-->
 
 ### GitHub stats
