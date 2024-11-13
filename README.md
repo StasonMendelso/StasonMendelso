@@ -38,13 +38,15 @@ Poltava region.
 ### My stats 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C158%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C159%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 992.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 283 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -79,18 +81,19 @@ Sunday                   199 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-Java                     0 secs              ██████████████████████░░░   87.20 % 
-XML                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+Java                     30 mins             ██████████████████░░░░░░░   71.57 % 
+XML                      12 mins             ███████░░░░░░░░░░░░░░░░░░   28.41 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
+IntelliJ IDEA            42 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-University.KhNURE.ITDIP.P0 secs              █████████████████████████   100.00 % 
+University.KhNURE.ITDIP.P39 mins             ███████████████████████░░   92.54 % 
+University.KhNURE.HpCT.Pr3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+Windows                  42 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -110,7 +113,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/StasonMendelso/StasonMendelso/main/assets/bar_graph.png)
 
 
- Last Updated on 12/11/2024 18:46:13 UTC
+ Last Updated on 13/11/2024 18:47:43 UTC
 <!--END_SECTION:waka-->
 
 ### GitHub stats
