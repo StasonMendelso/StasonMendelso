@@ -38,15 +38,13 @@ Poltava region.
 ### My stats 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C160%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C161%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 992.0 kB Used in GitHub's Storage 
- > 
-> 🏆 283 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -81,8 +79,8 @@ Sunday                   199 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-Java                     1 hr 12 mins        ███████████████░░░░░░░░░░   59.19 % 
-XML                      42 mins             █████████░░░░░░░░░░░░░░░░   35.03 % 
+Java                     1 hr 12 mins        ███████████████░░░░░░░░░░   59.17 % 
+XML                      42 mins             █████████░░░░░░░░░░░░░░░░   35.04 % 
 JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 
@@ -90,8 +88,8 @@ Markdown                 0 secs              ░░░░░░░░░░░�
 IntelliJ IDEA            2 hrs 2 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-University.KhNURE.ITDIP.P1 hr 26 mins        ██████████████████░░░░░░░   71.04 % 
-ws_mvn                   32 mins             ███████░░░░░░░░░░░░░░░░░░   26.34 % 
+University.KhNURE.ITDIP.P1 hr 26 mins        ██████████████████░░░░░░░   71.01 % 
+ws_mvn                   32 mins             ███████░░░░░░░░░░░░░░░░░░   26.38 % 
 University.KhNURE.HpCT.Pr3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 
 💻 Operating System: 
@@ -115,7 +113,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/StasonMendelso/StasonMendelso/main/assets/bar_graph.png)
 
 
- Last Updated on 15/11/2024 18:49:11 UTC
+ Last Updated on 16/11/2024 18:46:24 UTC
 <!--END_SECTION:waka-->
 
 ### GitHub stats
