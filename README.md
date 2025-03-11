@@ -46,8 +46,6 @@ Poltava region.
 
 > 📦 1.0 MB Used in GitHub's Storage 
  > 
-> 🏆 1 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 41 Public Repositories 
@@ -81,21 +79,16 @@ Sunday                   204 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-Java                     0 secs              ████████████████████████░   97.59 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Diploma-Code-Checker-Basi0 secs              ██████████░░░░░░░░░░░░░░░   38.27 % 
-Education.Spring         0 secs              █████████░░░░░░░░░░░░░░░░   35.63 % 
-LectorRepoMathBasic1     0 secs              ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
-StudentRepoMathBasic1    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -115,7 +108,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/StasonMendelso/StasonMendelso/main/assets/bar_graph.png)
 
 
- Last Updated on 10/03/2025 18:49:00 UTC
+ Last Updated on 11/03/2025 18:50:20 UTC
 <!--END_SECTION:waka-->
 
 ### GitHub stats
