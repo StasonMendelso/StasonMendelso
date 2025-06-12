@@ -46,8 +46,6 @@ Poltava region.
 
 > 📦 1.0 MB Used in GitHub's Storage 
  > 
-> 🏆 21 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 41 Public Repositories 
@@ -81,16 +79,17 @@ Sunday                   214 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     14 mins             ███████████████████████░░   93.98 % 
+XML                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            15 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+CodeGrader               15 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  15 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -110,7 +109,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/StasonMendelso/StasonMendelso/main/assets/bar_graph.png)
 
 
- Last Updated on 11/06/2025 18:54:57 UTC
+ Last Updated on 12/06/2025 18:53:27 UTC
 <!--END_SECTION:waka-->
 
 ### GitHub stats
