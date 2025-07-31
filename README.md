@@ -40,7 +40,7 @@ Poltava region.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C257%20hrs%2034%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -54,6 +54,45 @@ Poltava region.
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2905 commits        ██████████████░░░░░░░░░░░   54.11 % 
+🌆 Daytime                1792 commits        ████████░░░░░░░░░░░░░░░░░   33.38 % 
+🌃 Evening                577 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+🌙 Night                  95 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   952 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+Tuesday                  885 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Wednesday                864 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Thursday                 1094 commits        █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
+Friday                   1225 commits        ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
+Saturday                 135 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Sunday                   214 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Kyiv
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -71,7 +110,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/StasonMendelso/StasonMendelso/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2025 18:59:26 UTC
+ Last Updated on 31/07/2025 18:59:09 UTC
 <!--END_SECTION:waka-->
 
 ### GitHub stats
