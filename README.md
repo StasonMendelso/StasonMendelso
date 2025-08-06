@@ -38,13 +38,15 @@ Poltava region.
 ### My stats 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C257%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C258%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.0 MB Used in GitHub's Storage 
+ > 
+> 🏆 23 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -79,16 +81,20 @@ Sunday                   214 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+XML                      6 mins              ████████████████████░░░░░   78.20 % 
+Java                     1 min               ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            8 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Content-Automation       8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -108,7 +114,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/StasonMendelso/StasonMendelso/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2025 19:01:22 UTC
+ Last Updated on 06/08/2025 18:59:01 UTC
 <!--END_SECTION:waka-->
 
 ### GitHub stats
