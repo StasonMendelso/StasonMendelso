@@ -38,7 +38,7 @@ Poltava region.
 ### My stats 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C335%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C336%20hrs%2011%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -81,16 +81,23 @@ Sunday                   242 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSS                      52 mins             ███████████░░░░░░░░░░░░░░   45.01 % 
+HTML                     32 mins             ███████░░░░░░░░░░░░░░░░░░   28.00 % 
+Image (svg)              15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Text                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+SCSS                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 1 hr 56 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+DesignProj               1 hr 21 mins        █████████████████░░░░░░░░   69.89 % 
+FurnitureShop            32 mins             ███████░░░░░░░░░░░░░░░░░░   27.49 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+kobelyaky-map            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 56 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -110,7 +117,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/StasonMendelso/StasonMendelso/main/assets/bar_graph.png)
 
 
- Last Updated on 22/02/2026 19:04:48 UTC
+ Last Updated on 23/02/2026 19:42:45 UTC
 <!--END_SECTION:waka-->
 
 ### GitHub stats
