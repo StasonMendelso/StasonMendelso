@@ -38,7 +38,7 @@ Poltava region.
 ### My stats 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C344%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C346%20hrs%2044%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -81,19 +81,19 @@ Sunday                   242 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-Scala                    3 hrs 56 mins       █████████████████████████   99.81 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-sbt                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Scala                    1 hr 54 mins        █████████████████████████   99.63 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+sbt                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            3 hrs 56 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            1 hr 55 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ScalaLab                 3 hrs 56 mins       █████████████████████████   100.00 % 
+ScalaLab                 1 hr 55 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 56 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 55 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -113,7 +113,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/StasonMendelso/StasonMendelso/main/assets/bar_graph.png)
 
 
- Last Updated on 12/04/2026 19:26:53 UTC
+ Last Updated on 13/04/2026 19:54:05 UTC
 <!--END_SECTION:waka-->
 
 ### GitHub stats
