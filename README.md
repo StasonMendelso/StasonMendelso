@@ -81,22 +81,16 @@ Sunday                   239 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-Java                     1 hr 38 mins        ██████████████████████░░░   86.52 % 
-GitIgnore file           11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-Scala                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-sbt                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 53 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-UP-Git                   1 hr 49 mins        ████████████████████████░   96.36 % 
-ScalaLab                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 53 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -116,7 +110,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/StasonMendelso/StasonMendelso/main/assets/bar_graph.png)
 
 
- Last Updated on 18/05/2026 20:18:13 UTC
+ Last Updated on 19/05/2026 20:18:42 UTC
 <!--END_SECTION:waka-->
 
 ### GitHub stats
