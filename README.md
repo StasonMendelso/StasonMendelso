@@ -81,16 +81,18 @@ Sunday                   240 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Mason                    38 mins             ██████████████████░░░░░░░   70.15 % 
+Text                     15 mins             ███████░░░░░░░░░░░░░░░░░░   28.33 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 54 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+LightEditProject         54 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  54 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -110,7 +112,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/StasonMendelso/StasonMendelso/main/assets/bar_graph.png)
 
 
- Last Updated on 07/06/2026 19:59:18 UTC
+ Last Updated on 08/06/2026 20:43:26 UTC
 <!--END_SECTION:waka-->
 
 ### GitHub stats
