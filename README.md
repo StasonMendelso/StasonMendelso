@@ -81,16 +81,17 @@ Sunday                   240 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 0 secs              ██████████████████████░░░   90.00 % 
+JavaScript               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+kobelyaky-map            0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -116,7 +117,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/StasonMendelso/StasonMendelso/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2026 19:10:28 UTC
+ Last Updated on 22/08/2026 19:03:20 UTC
 <!--END_SECTION:waka-->
 
 ### GitHub stats
