@@ -38,7 +38,7 @@ Poltava region.
 ### My stats 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C361%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C361%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -81,17 +81,21 @@ Sunday                   240 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-Markdown                 0 secs              ██████████████████████░░░   90.00 % 
-JavaScript               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Markdown                 3 mins              ██████████████████░░░░░░░   73.14 % 
+JavaScript               1 min               ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
+Java                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
+IntelliJ IDEA            4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-kobelyaky-map            0 secs              █████████████████████████   100.00 % 
+kobelyaky-map            4 mins              ████████████████████████░   96.88 % 
+KhNURE Auto Attendance   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+Windows                  4 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -117,7 +121,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/StasonMendelso/StasonMendelso/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 01:55:10 UTC
+ Last Updated on 29/08/2026 21:08:42 UTC
 <!--END_SECTION:waka-->
 
 ### GitHub stats
