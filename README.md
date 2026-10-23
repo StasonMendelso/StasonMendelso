@@ -52,25 +52,25 @@ Poltava region.
  > 
 > 📜 41 Public Repositories 
  > 
-> 🔑 8 Private Repositories 
+> 🔑 7 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2906 commits        █████████████░░░░░░░░░░░░   53.59 % 
-🌆 Daytime                1838 commits        ████████░░░░░░░░░░░░░░░░░   33.89 % 
-🌃 Evening                582 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-🌙 Night                  97 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+🌞 Morning                2906 commits        █████████████░░░░░░░░░░░░   53.65 % 
+🌆 Daytime                1838 commits        ████████░░░░░░░░░░░░░░░░░   33.93 % 
+🌃 Evening                578 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+🌙 Night                  95 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   958 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
-Tuesday                  886 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-Wednesday                868 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
-Thursday                 1095 commits        █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
-Friday                   1233 commits        ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
-Saturday                 143 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Monday                   958 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+Tuesday                  886 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+Wednesday                868 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+Thursday                 1095 commits        █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
+Friday                   1229 commits        ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
+Saturday                 141 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 Sunday                   240 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
 ```
 
@@ -102,11 +102,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     27 repos            ███████████████░░░░░░░░░░   58.70 % 
-JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Java                     27 repos            ███████████████░░░░░░░░░░   60.00 % 
+C#                       7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 ```
 
 
@@ -116,7 +116,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/StasonMendelso/StasonMendelso/main/assets/bar_graph.png)
 
 
- Last Updated on 22/10/2026 21:56:14 UTC
+ Last Updated on 23/10/2026 21:38:55 UTC
 <!--END_SECTION:waka-->
 
 ### GitHub stats
